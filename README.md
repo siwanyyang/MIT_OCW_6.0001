@@ -4,6 +4,7 @@ Solutions for Psets, Midterm, Final exam of MIC OCW 6.0001
 - Pythons 3.5 or higher
 - Anaconda & Spyder
 ## Installation
+Clone this repository:
 ```
 git clone https://github.com/siwanyyang/MIT_OCW_6.0001.git
 ```
