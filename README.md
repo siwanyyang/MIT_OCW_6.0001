@@ -1,6 +1,6 @@
 ## [MIT OCW 6.0001] Introduction to Computer Science and Programming in Python
-Solutions for Psets, Midterm, Final exam of MIC OCW 6.0001
-## Prerequisites.   
+Solutions for Psets, Midterm, Final exam of 6.0001 course
+## Prerequisites   
 - Pythons 3.5 or higher
 - Anaconda & Spyder
 ## Installation
