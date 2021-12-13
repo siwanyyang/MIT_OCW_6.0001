@@ -3,6 +3,7 @@ Solutions for Psets, Midterm, Final exam of 6.0001 course
 ## Prerequisites   
 - Pythons 3.5 or higher
 - Anaconda & Spyder
+- Python Library : numpy, matplotlib
 ## Installation
 Clone this repository:
 ```
